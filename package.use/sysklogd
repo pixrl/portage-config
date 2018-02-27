@@ -1,0 +1,4 @@
+app-admin/sysklogd logrotate
+# required by net-misc/ntp-4.2.8_p10-r1::gentoo[zeroconf]
+# required by net-misc/ntp (argument)
+>=net-dns/avahi-0.7 mdnsresponder-compat
